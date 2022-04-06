@@ -7,7 +7,7 @@ public class Main {
         int b = 12;
         System.out.println(a == b);
         // it will print false because 12 is not equals 11
-        int c = 12;
+        int c = 16;
         int d = 11;
         System.out.println(c == d);
 
