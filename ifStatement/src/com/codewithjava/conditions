@@ -1,0 +1,7 @@
+  if tempreture is greater then 30
+    it's a Hot day
+    Drink plenty of water or drink something cold
+  Otherwise if it is between 20 and 30
+    It's a nice day
+  Otherwise
+    It's cold
